@@ -1,7 +1,7 @@
 {
   "name": "ddl-parser",
   "version": "1.0.0",
-  "description": "",
+  "description": "Parse and build out DDL Parse Trees from WiiU/3DS dumps",
   "main": "lib/parser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
