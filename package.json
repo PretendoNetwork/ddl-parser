@@ -1,6 +1,6 @@
 {
   "name": "ddl-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse and build out DDL Parse Trees from WiiU/3DS dumps",
   "main": "lib/parser.js",
   "scripts": {
